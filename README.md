@@ -1,17 +1,29 @@
-# Unified-Field-Theory
-Official repository for Zhang Xiangqian's Unified Field Theory (7th Ed). Includes US Patent 12417870 and Nature preprint.
-Title: Unified Field Theory (7th Edition): The True Nature of Time, Space, and Artificial Field Scanning
-Author: Zhang Xiangqian
-Overview:
-This repository hosts the official 7th Edition of the "Unified Field Theory" authored by Zhang Xiangqian. It introduces a groundbreaking physical and geometric framework asserting that space itself is in a continuous, light-speed cylindrical spiral motion. In this model, time is not an independent dimension but the observer's perception of this spatial expansion.
-Key Academic & Patent Credentials:
-• US Patent Granted: US 12417870 (Method for generating gravitational fields using varying electromagnetic fields).
-• Academic Record: Permanently archived as a preprint in the Nature journal database.
-Core Theoretical Framework:
-The theory moves beyond traditional Newtonian mechanics and Relativity by redefining momentum. It introduces the generalized momentum equation:
-P=m(C-V)
-Where C represents the vector speed of light and V is the velocity of the object. The theory mathematically demonstrates that the traditional Newtonian momentum (P=mV) is simply a variation within this broader unified field framework, successfully unifying gravitational, electromagnetic, and nuclear forces into a single dynamical equation.
-Experimental Breakthroughs (Artificial Field Scanning):
-Theoretical models have transitioned into experimental physics. Core experiments conducted between 2023 and 2024 have successfully demonstrated that accelerated positive charges and varying magnetic fields generate controllable, opposite-direction gravitational fields. This experimental verification lays the foundation for "Artificial Field Scanning" technology, which holds the potential for light-speed propulsion systems, zero-mass manipulation, and advanced industrial applications.
-Attached Document:
-Please refer to the attached PDF file Unified Field Theory (7th Edition).pdf for the complete mathematical derivations, the unification of Maxwell's equations, and detailed experimental setups.
+# Unified Field Theory (7th Edition) - Official Repository
+**Author: Zhang Xiangqian**
+
+This repository hosts the official documentation, mathematical derivations, and experimental evidence for the **Unified Field Theory**. This theory provides a purely geometric explanation for all physical phenomena, unifying gravity, electromagnetism, and nuclear forces through the spiral motion of space itself.
+
+## 🚀 Key Mathematical Breakthrough
+We have successfully derived **Maxwell's Equations** directly from the **3D Spiral Space-Time Equation** without any external physical assumptions.
+
+### Derivation Infographic:
+![Maxwell Derivation](image.png)
+*(Note: If the image above doesn't load, please verify the 'image.png' file exists in this repository)*
+
+## 🧪 Core Physical Formulas
+* **Unified Momentum**: $\mathbf{P} = m(\mathbf{C} - \mathbf{V})$
+  * *Unifies classical mechanics with the vector nature of light.*
+* **Gravity-Light Relationship**: $e = -\frac{c^2 \omega^2 r^3}{g}$
+  * *Establishes the direct link between the Gravitational Constant ($g$) and the Speed of Light ($c$).*
+
+## 📜 Evidence & Recognition
+* **US Patent 12417870**: Granted for the method of generating gravitational fields using varying electromagnetic fields.
+* **Laboratory Success**: Experiments (2023-2025) confirmed that accelerated positive charges produce measurable gravitational effects.
+* **Optical Verification**: Michelson-interferometer tests in 2025 observed fringe shifts consistent with theory predictions.
+
+## 📂 Documentation
+- [Research Paper: Gravity and Light Speed Relationship](Gravity_and_Light_Speed.docx.docx)
+- [Complete Theory: Unified Field Theory 7th Ed](统一场论第七版.pdf)
+
+---
+*For collaboration on Artificial Field Scanning Technology, please contact us through the repository issues.*
